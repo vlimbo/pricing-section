@@ -1,0 +1,27 @@
+/* pricing section */
+.pricing {
+  border: 5px solid red;
+}
+
+.pricing__container {
+  display: grid;
+  grid-template-areas:
+    "css css css js"
+    "react react next next";
+}
+
+.css {
+  grid-area: css;
+}
+
+.js {
+  grid-area: js;
+}
+
+.react {
+  grid-area: react;
+}
+
+.next {
+  grid-area: next;
+}
