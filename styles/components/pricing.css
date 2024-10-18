@@ -38,8 +38,29 @@
   margin-bottom: 1rem;
 }
 
+.pricing__btn {
+  font-size: 0.75rem;
+}
+
 /* xs */
-/* @media (min-width: 475px) {} */
+@media (min-width: 475px) {
+  .pricing__title {
+    font-size: 0.875rem;
+  }
+
+  .pricing__box__title {
+    font-size: 1.25rem;
+  }
+
+  .pricing__box__description1,
+  .pricing__box__description2 {
+    font-size: 0.875rem;
+  }
+
+  .pricing__btn {
+    font-size: 0.875rem;
+  }
+}
 
 /* sm */
 /* @media (min-width: 640px) {} */
