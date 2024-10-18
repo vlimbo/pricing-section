@@ -31,6 +31,13 @@
   font-family: "Source Code Pro", monospace;
 }
 
+.pricing__box__description2 {
+  font-size: 0.75rem;
+  color: #888;
+  font-family: "Source Code Pro", monospace;
+  margin-bottom: 1rem;
+}
+
 /* xs */
 /* @media (min-width: 475px) {} */
 
