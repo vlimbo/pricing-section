@@ -21,6 +21,16 @@
   margin: 0;
 }
 
+.pricing__box__title {
+  font-size: 1.125rem;
+}
+
+.pricing__box__description1 {
+  margin-bottom: 2.5rem;
+  font-size: 0.75rem;
+  font-family: "Source Code Pro", monospace;
+}
+
 /* xs */
 /* @media (min-width: 475px) {} */
 
