@@ -1,7 +1,17 @@
+.pricing {
+  margin-top: 5rem;
+}
+
 .pricing__title {
   text-transform: uppercase;
   font-size: 0.75rem;
   margin-bottom: 1rem;
+  font-family: "Source Code Pro", monospace;
+}
+
+.pricing__box {
+  background-color: black;
+  color: white;
 }
 
 /* xs */
